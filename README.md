@@ -1,1 +1,1 @@
-# zabbix-templates
+# zabbix snmp template for http://www.hw-group.ru/productions/ip_monitoring/hwg_wld/WLD_Water_detector.htm hwg-wld flood detector from fork https://raw.githubusercontent.com/Roultabie/zabbix-templates/master/zabbix-hwgste.xml
